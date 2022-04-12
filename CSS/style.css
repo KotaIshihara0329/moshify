@@ -418,3 +418,22 @@ a {
     }
 }
 
+/* Media */ 
+.media {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.media__title {
+    margin: 0;
+}
+
+.media__body {
+    margin: 0 2rem;
+}
+
+.media__image {
+    margin-top: 1rem;
+}
+
